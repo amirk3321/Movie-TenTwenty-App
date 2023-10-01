@@ -1,0 +1,46 @@
+import 'package:flutter/material.dart';
+import 'package:movie_tentwenty_app/features/global/theme/style.dart';
+
+Map<String, Color> genresColorConst = {
+  "Action": color15D2BC,
+  "Adventure": color15D2BC,
+  "Music": color15D2BC,
+  "Comedy": colorE26CA5,
+  "Romance": colorE26CA5,
+  "Animation": color15D2BC,
+  "Crime": colorCD9D0F,
+  "Horror": colorCD9D0F,
+  "Documentary": color564CA3,
+  "Drama": color15D2BC,
+  "Family": color15D2BC,
+  "Fantasy": color564CA3,
+  "History": color564CA3,
+  "TV Movie": color564CA3,
+  "Science Fiction": color564CA3,
+  "Thriller": colorE26CA5,
+  "Western": colorE26CA5,
+  "War": colorE26CA5,
+  "Mystery": colorE26CA5,
+};
+
+Map<int, String> genresNameConst = {
+  28: "Action",
+  12: "Adventure",
+  10402: "Music",
+  35: "Comedy",
+  10749: "Romance",
+  16: "Animation",
+  80: "Crime",
+  27: "Horror",
+  99: "Documentary",
+  18: "Drama",
+  10751: "Family",
+  14: "Fantasy",
+  36: "History",
+  10770: "TV Movie",
+  878: "Science Fiction",
+  53: "Thriller",
+  37: "Western",
+  10752: "War",
+  9648: "Mystery",
+};

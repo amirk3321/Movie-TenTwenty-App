@@ -1,0 +1,377 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 898247,
+      "original_language": "en",
+      "original_title": "Koren",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "2021-11-20",
+      "title": "Koren",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lqThNsJ3NUsIZDLvbts6n9YESVr.jpg",
+      "genre_ids": [
+        99,
+        10752
+      ],
+      "id": 267872,
+      "original_language": "en",
+      "original_title": "Korengal",
+      "overview": "Korengal picks up where Restrepo left off; the same men, the same valley, the same commanders, but a very different look at the experience of war.",
+      "popularity": 4.99,
+      "poster_path": "/kTJF1NOX0HYCRmiuM42F7qjZOxW.jpg",
+      "release_date": "2014-05-30",
+      "title": "Korengal",
+      "video": false,
+      "vote_average": 6.571,
+      "vote_count": 78
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 1016404,
+      "original_language": "bn",
+      "original_title": "ভূতে বিশ্বাস করেন?",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": "/mEFrS0bRSaUTUsG3PPl3254j3Jz.jpg",
+      "release_date": "2022-09-16",
+      "title": "Bhoote Biswas Koren?",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 954677,
+      "original_language": "cs",
+      "original_title": "Květy a kořeny",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "1959-12-29",
+      "title": "Květy a kořeny",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 955122,
+      "original_language": "cs",
+      "original_title": "Kořeny",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "1962-03-01",
+      "title": "Kořeny",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 687232,
+      "original_language": "sr",
+      "original_title": "Koreni zla",
+      "overview": "Essay of mosaic structure and close-up, filmed in the poetic tradition of cinema verité about the roots of family violence and the thin line between violators and victims. The protagonists are convicts who committed crimes after years of psychological and (or) physical violence. Film seeks answers to these questions: Is it possible to resolve family conflicts in a more peaceful way? Where does the deep and uncontrolled evil towards the loved ones come from?",
+      "popularity": 0.6,
+      "poster_path": "/asSxJgKcZ0LtHyg6LSpJhrIHiho.jpg",
+      "release_date": "2015-03-25",
+      "title": "Roots of Evil",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 841951,
+      "original_language": "cs",
+      "original_title": "Na kořen zla",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "1948-01-01",
+      "title": "Na kořen zla",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1167347,
+      "original_language": "sk",
+      "original_title": "Korene budúcnosti",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "1995-01-01",
+      "title": "Korene budúcnosti",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 885162,
+      "original_language": "en",
+      "original_title": "Kören - En film om Tensta Gospel Choir",
+      "overview": "Documentary about Tensta Gospel Choir.",
+      "popularity": 0.6,
+      "poster_path": "/48ebYvUAMaad2ie8xdpRYaI9MrD.jpg",
+      "release_date": "2021-11-26",
+      "title": "The Choir - a film about Tensta Gospel Choir",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yYEOYzgqPB31mkSsuPdCvXH3zHv.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 626332,
+      "original_language": "en",
+      "original_title": "Flamin' Hot",
+      "overview": "The inspiring true story of Richard Montañez, the Frito Lay janitor who channeled his Mexican American heritage and upbringing to turn the iconic Flamin’ Hot Cheetos into a snack that disrupted the food industry and became a global pop culture phenomenon.",
+      "popularity": 58.261,
+      "poster_path": "/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",
+      "release_date": "2023-03-11",
+      "title": "Flamin' Hot",
+      "video": false,
+      "vote_average": 8.186,
+      "vote_count": 400
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dIibeeq4QMay5bTJ2vjr72IFFRo.jpg",
+      "genre_ids": [
+        14,
+        12,
+        35
+      ],
+      "id": 589754,
+      "original_language": "ru",
+      "original_title": "Последний богатырь: Корень зла",
+      "overview": "Peace and tranquility have set in Belogorie. The evil was defeated and Ivan is now enjoying his well-deserved fame. He is surrounded by his family, friends and small wonders from the modern world that help him lead a comfortable life. Luckily, he has his Magic Sword to cut a gap between the worlds to get some supplies quite regularly. But when an ancient evil rises and the existence of the magic world is put to danger, Ivan has to team up with his old friends and his new rivals. They will set out on a long journey beyond the known world to find a way to defeat the enemies and to return peace to Belogorie.",
+      "popularity": 36.296,
+      "poster_path": "/5VJSIAhSn4qUsg5nOj4MhQhF5wQ.jpg",
+      "release_date": "2021-01-01",
+      "title": "The Last Warrior: Root of Evil",
+      "video": false,
+      "vote_average": 6.918,
+      "vote_count": 140
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rmlgq2gjiXBK3YNWj6WSdueLv0o.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 3638,
+      "original_language": "en",
+      "original_title": "No Reservations",
+      "overview": "Master chef Kate Armstrong runs her life and her kitchen with intimidating intensity. However, a recipe for disaster may be in the works when she becomes the guardian of her young niece while crossing forks with the brash sous-chef who just joined her staff. Though romance blooms in the face of rivalry, Kate needs to look outside the kitchen to find true happiness.",
+      "popularity": 8.751,
+      "poster_path": "/eKqfRSf0DZ0Qey1f9ZHuZfsmXVR.jpg",
+      "release_date": "2007-06-15",
+      "title": "No Reservations",
+      "video": false,
+      "vote_average": 6.539,
+      "vote_count": 1146
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mG6tv2oV4UpSRVMSYhE2i2urmf1.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "id": 9724,
+      "original_language": "en",
+      "original_title": "The Mistress of Spices",
+      "overview": "Tilo is an Indian shopkeeper in America with an ability to see the future and a magical connection to powerful spices, which she uses to help her customers satisfy their various needs and desires. One day she falls in love with an American man. But the spices forbid it.",
+      "popularity": 9.125,
+      "poster_path": "/4B1bLyeRdrVVS9TirZdPUyP9we1.jpg",
+      "release_date": "2005-09-11",
+      "title": "The Mistress of Spices",
+      "video": false,
+      "vote_average": 6.062,
+      "vote_count": 138
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g3OK7FhpD2hfT7R3EgA5HqdU2hb.jpg",
+      "genre_ids": [
+        10770,
+        53,
+        18
+      ],
+      "id": 333658,
+      "original_language": "en",
+      "original_title": "Seeds of Yesterday",
+      "overview": "The Sheffield family reveal and go through some home truths as their middle child inherits the Foxworth mansion. The family's ghosts looming over, and more tragedies are in store as the curse lives on.",
+      "popularity": 7.429,
+      "poster_path": "/xj2wTGex2P9sEbMILBG9iOebc4A.jpg",
+      "release_date": "2015-04-12",
+      "title": "Seeds of Yesterday",
+      "video": false,
+      "vote_average": 6.511,
+      "vote_count": 95
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4bjVA2NrkrdNPPpKUt7eR2P3xlf.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        10749
+      ],
+      "id": 42006,
+      "original_language": "zh",
+      "original_title": "红高粱",
+      "overview": "An old leper who owned a remote sorghum winery dies. Jiu'er, the wife bought by the leper, and her lover, identified only as \"my Grandpa\" by the narrator, take over the winery and set up an idealized quasi-matriarchal community headed by Jiu'er. When the Japanese invaders subject the area to their rule and cut down the sorghum to make way for a road, the community rises up and resists as the sorghum grows anew.",
+      "popularity": 6.754,
+      "poster_path": "/2CP2eazEBKJ3njm4HM63pMfs5tW.jpg",
+      "release_date": "1988-10-10",
+      "title": "Red Sorghum",
+      "video": false,
+      "vote_average": 7.168,
+      "vote_count": 179
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vzXp9ayYUfSZQVdslIbAqc2MFoS.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        9648,
+        53
+      ],
+      "id": 13197,
+      "original_language": "en",
+      "original_title": "10th & Wolf",
+      "overview": "A former street thug returns to his Philadelphia home after a stint in the military. Back on his home turf, he once again finds himself tangling with the mob boss who was instrumental in his going off to be a soldier.",
+      "popularity": 8.756,
+      "poster_path": "/2OBZth9rnSyMzZR8M0WwGj8ivDG.jpg",
+      "release_date": "2006-02-19",
+      "title": "10th & Wolf",
+      "video": false,
+      "vote_average": 5.947,
+      "vote_count": 85
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aHLlIat9AfVTWx3v7vMLeocwySl.jpg",
+      "genre_ids": [
+        28,
+        878,
+        10770
+      ],
+      "id": 82756,
+      "original_language": "en",
+      "original_title": "Seeds of Destruction",
+      "overview": "When the seeds from the original Garden of Eden are carelessly released into today's toxic climate, the plant is transformed by our contaminated environment into a writhing mass of foliage that wreaks havoc over earth.",
+      "popularity": 3.981,
+      "poster_path": "/fVZpTSZ7CiBf2vR2OB47wFylDM9.jpg",
+      "release_date": "2011-10-08",
+      "title": "Seeds of Destruction",
+      "video": false,
+      "vote_average": 5.671,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 14297,
+      "original_language": "en",
+      "original_title": "Root of All Evil?",
+      "overview": "In this two-part Channel 4 series, Professor Richard Dawkins challenges what he describes as 'a process of non-thinking called faith'. He describes his astonishment that, at the start of the 21st century, religious faith is gaining ground in the face of rational, scientific truth. Science, based on scepticism, investigation and evidence, must continuously test its own concepts and claims. Faith, by definition, defies evidence: it is untested and unshakeable, and is therefore in direct contradiction with science.  In addition, though religions preach morality, peace and hope, in fact, says Dawkins, they bring intolerance, violence and destruction. The growth of extreme fundamentalism in so many religions across the world not only endangers humanity but, he argues, is in conflict with the trend over thousands of years of history for humanity to progress to become more enlightened and more tolerant.",
+      "popularity": 2.656,
+      "poster_path": "/teVVE5yZQGcq81xpwIfdHjEWSKS.jpg",
+      "release_date": "2006-01-09",
+      "title": "Root of All Evil?",
+      "video": false,
+      "vote_average": 7.371,
+      "vote_count": 58
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2FTyVzKEVRNQccix41GSidCbAH5.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 882937,
+      "original_language": "fr",
+      "original_title": "À la source de la tyrannie",
+      "overview": "Through the youthful portraits of some of the most terrible dictators of the 20th and 21st centuries, this documentary examines the origins of tyranny. Is a dictator the product of a family, social and historical context?",
+      "popularity": 0.6,
+      "poster_path": "/zaJfFA7Rpjjm52uFi9buCx46mUa.jpg",
+      "release_date": "2021-10-08",
+      "title": "À la source de la tyrannie",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bOnfQ0yk2oEQQQvDdJqeQvxjORf.jpg",
+      "genre_ids": [],
+      "id": 579104,
+      "original_language": "en",
+      "original_title": "Anchor Baby",
+      "overview": "Anchor Baby is a tale of an illegal immigrant couple from Nigeria on a quest to create a better life for their unborn child. Their dream is to have their baby in the United States in order for the baby to become a US citizen.",
+      "popularity": 1.534,
+      "poster_path": "/yo6PELIfWzDwFhFAWz0YbckzrCy.jpg",
+      "release_date": "2010-12-10",
+      "title": "Anchor Baby",
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 22
+}
