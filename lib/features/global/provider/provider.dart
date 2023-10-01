@@ -7,7 +7,7 @@ import 'package:movie_tentwenty_app/features/global/theme/style.dart';
 
 String endPoint(String endPoint) => "$baseURL/$endPoint";
 
-String loadMovieDBImage(String imageId) => "https://image.tmdb.org/t/p/w500$imageId";
+String loadMovieDBImage(String? imageId) => "https://image.tmdb.org/t/p/w500$imageId";
 
 Map<String, String> headerBearerOption(String token) => {
   "Content-Type": "application/json",

@@ -35,6 +35,14 @@ class _PaymentMethodPageState extends State<PaymentMethodPage> {
     }
   }
 
+  String? _getMovieImage() {
+    if (widget.appEntity.searchMoviesData != null) {
+      return widget.appEntity.searchMoviesData!.backdrop_path == null ? null : widget.appEntity.searchMoviesData!.backdrop_path!;
+    } else {
+      return widget.appEntity.upcomingMovieData!.backdrop_path == null ? null : widget.appEntity.upcomingMovieData!.backdrop_path!;
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -99,7 +107,7 @@ class _PaymentMethodPageState extends State<PaymentMethodPage> {
                             child: Hero(
                               tag: HeroAnimationConst.orderSummeryToPayMethodImgTag,
                               child: moviePoster(
-                                  imageUrl: loadMovieDBImage(widget.appEntity.upcomingMovieData!.poster_path!)),
+                                  imageUrl: loadMovieDBImage(_getMovieImage())),
                             )),
                       ),
                     ],

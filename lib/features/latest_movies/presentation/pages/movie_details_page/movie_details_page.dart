@@ -86,8 +86,7 @@ class _MovieDetailsPageState extends State<MovieDetailsPage> {
                           child: Hero(
                             tag: widget.appEntity.tag!,
                             child: moviePoster(
-                                imageUrl: loadMovieDBImage(
-                                    movieDetails.backdrop_path!)),
+                                imageUrl: loadMovieDBImage(movieDetails.backdrop_path==null?null:movieDetails.backdrop_path!)),
                           ),
                         ),
                         Positioned(
