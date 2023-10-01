@@ -103,7 +103,7 @@ class _SelectSeatReservationPageState extends State<SelectSeatReservationPage> {
                   ),
                 ),
                 Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 10),
+                  padding: const EdgeInsets.symmetric(horizontal: 5),
                   decoration: const BoxDecoration(
                     color: colorDBDBDF,
                   ),
@@ -129,7 +129,7 @@ class _SelectSeatReservationPageState extends State<SelectSeatReservationPage> {
                               Positioned.fill(
                                   top: 38,
                                   child: Center(
-                                      child: Text("Screens",
+                                      child: Text("SCREEN",
                                           style:
                                               TextStyle(color: color8F8F8F)))),
                             ],
@@ -142,7 +142,7 @@ class _SelectSeatReservationPageState extends State<SelectSeatReservationPage> {
                       ),
                       _loungeSeats(),
                       const SizedBox(
-                        height:100,
+                        height:30,
                       ),
                       Row(
                         mainAxisAlignment: MainAxisAlignment.end,
@@ -191,7 +191,7 @@ class _SelectSeatReservationPageState extends State<SelectSeatReservationPage> {
                 horizontal: 20,
               ),
               width: double.infinity,
-              height: 250,
+              height: 200,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 mainAxisAlignment: MainAxisAlignment.end,
@@ -380,39 +380,6 @@ class _SelectSeatReservationPageState extends State<SelectSeatReservationPage> {
     );
   }
 
-  Widget _daysBoxWidget(String value, String dateValue, int index, String day) {
-    if (day == "Fri" || day == "Thu") {
-      return const SizedBox(
-        height: 0,
-        width: 0,
-      );
-    } else {
-      return Container(
-        height: 32,
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(10),
-          color: _dayIndex == index ? color61C3F2 : colorA6A6A6,
-        ),
-        padding: const EdgeInsets.only(left: 16, right: 16, top: 6, bottom: 6),
-        child: Row(
-          children: [
-            const SizedBox(
-              height: 5,
-            ),
-            Row(
-              children: [
-                Text(
-                  dateValue,
-                  style: TextStyle(
-                      color: _dayIndex == index ? colorWhite : colorBlack),
-                ),
-              ],
-            ),
-          ],
-        ),
-      );
-    }
-  }
 
   Widget _loungeSeats() {
     return InteractiveViewer(
@@ -425,8 +392,8 @@ class _SelectSeatReservationPageState extends State<SelectSeatReservationPage> {
           final rowIndex =
               ReservationSeatEntity.redLoungeSeats.indexOf(singleRow);
 
-          return Padding(
-            padding: const EdgeInsets.all(5.0),
+          return Container(
+            margin: const EdgeInsets.symmetric(vertical: 5.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               crossAxisAlignment: CrossAxisAlignment.end,
@@ -476,18 +443,14 @@ class _SelectSeatReservationPageState extends State<SelectSeatReservationPage> {
                       child: Container(
                         margin: EdgeInsets.only(
                             left: leftMargin, right: rightMargin),
-                        width: 12,
-                        height: 12,
-                        child: Stack(
-                          children: [
-                            Image.asset(index == _selectedSeatIndex &&
-                                    _selectedSeatRow == singleRow.rowName
-                                ? "assets/selected_seat.png"
-                                : singleRow.isVip == true
-                                    ? "assets/vip_seat.png"
-                                    : "assets/regular_seat.png"),
-                          ],
-                        ),
+                        width: 10,
+                        height: 10,
+                        child: Image.asset(index == _selectedSeatIndex &&
+                                _selectedSeatRow == singleRow.rowName
+                            ? "assets/selected_seat.png"
+                            : singleRow.isVip == true
+                                ? "assets/vip_seat.png"
+                                : "assets/regular_seat.png"),
                       ),
                     );
                   }),

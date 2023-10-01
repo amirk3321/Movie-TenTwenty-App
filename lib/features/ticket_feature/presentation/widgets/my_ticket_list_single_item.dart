@@ -25,11 +25,11 @@ class MyTicketListSingleItem extends StatelessWidget {
       return appEntity.upcomingMovieData!.release_date.toString();
     }
   }
-  String _getMovieImage() {
+  String? _getMovieImage() {
     if (appEntity.searchMoviesData != null) {
-      return appEntity.searchMoviesData!.backdrop_path!;
+      return appEntity.searchMoviesData!.backdrop_path == null ? null : appEntity.searchMoviesData!.backdrop_path!;
     } else {
-      return appEntity.upcomingMovieData!.backdrop_path.toString();
+      return appEntity.upcomingMovieData!.backdrop_path == null ? null : appEntity.upcomingMovieData!.backdrop_path!;
     }
   }
 
